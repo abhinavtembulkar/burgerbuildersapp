@@ -8,4 +8,4 @@ Project built during the course: React – the complete Guide (incl. Hooks, Reac
 Project hosted on heroku : https://burgerbuildersapp.herokuapp.com/
 
 ## Screenshots
-![](/images/burger.png)
+![](/images/burger.PNG)
