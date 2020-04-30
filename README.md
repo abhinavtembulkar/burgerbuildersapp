@@ -6,4 +6,4 @@ A burger builder app built using ReactJS and other modules .A complete Front-end
 Project hosted on heroku : https://burgerbuildersapp.herokuapp.com/
 
 ## Screenshots
-![](/images/burger.png)
+![](/images/burger.PNG)
